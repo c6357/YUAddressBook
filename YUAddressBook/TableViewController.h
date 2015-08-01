@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  YUAddressBook
 //
 //  Created by yuzhx on 15/8/1.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
